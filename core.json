@@ -1,0 +1,22 @@
+{
+    "type": "service_account",
+    "project_id": "portfolio-tracker-sc-v1",
+    "private_key_id": "9e2bf9e6fa7cfab15919980626c96e9779e77464",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv3dbw9Ta9yLnR\n5kI55BE239RneqR9bQCoT5vOfNh1w4s3Ii/Jm19BtweAOb8Tj0UHrS5cmYg9KQQ1\n4CI5ayJrxpOsQIp993kYUFsAwZcqP38/z3D+5695OFglp4owuMpWz/WaTw+hCNeV\nZmxvTJITXXSiVjUt+kZl4y/4rufXr8dy2IDfC4umBvpHUwo5PZSqNugTcnibnGDy\nob1eknwqtHZpx/isOw7p+8PmLyjkHoAbjYGT0nScHUGY6kU1cJSVdP/R9dCdJsxw\nO5Y9dXzc0gX6WVXNhrMpXfR4nCZl7E116ZnPEVxjoKn2PKoKBty/fV11Z1+FXJNw\nk/gnozsbAgMBAAECggEAEwODgRKp4/PnLyvbXiHrwIiLkNKAJTVbPFc7C6SQzI6j\nJwdRrlTXhCXTMEhOAcHcHzvYhtdslNwx4ddFK/sKwic6gQWLU5olY/0QEbFcdAtg\naRg26cBHxu3SDeQiuyjHa4JZVeEVWf44PKVRtOjM5D4W5ZQ3dKyZ3tskrRjP5RAk\nZktIeu8v6U2Ovv1cRJthQIxPfSUjlBQFsvz7ePwmEi9OxaXj5SHL1vYnBZRgcFge\n16DKdEwPrgbevFi4ozrX91IMSb5B3wcLUnlaoPeJqNNr0st03g8DkdTb6kQaH++W\nx3Gs+thhDaKd+1TVetCuXvtmXaH3a3IYsusJe3Ro7QKBgQDu7HTnKoFwXIQpQmed\nOQyUXkmyCSjruomwKiiYhX8Z6MGEUhnhQOaROgEXfwyy6ks1enl1bu3FdD5rNw6s\nCaZJJ40iNNjlNrKvMzVWqfb6ZFEfCqWQQNsQh/Fazimeh+zNL6fARrY+yBrI8k+K\n/UVgEPCiG3CfoLax9tjQ47wuJwKBgQC8b6N386u7Mw6oByNGDbwgE1zVcqmhW2yN\n4Yp84VO6w624z043+MEnQT2a6FJQhN64T7C9pfMVOFyv7pYRBDXY0ZH2XtKvoXUF\n3Iz0r1OQfn+KtNYNpYhCXg/q5l5bIv+1yC7LOW9MSYBdacii/d1ITimvxUIiGRcb\ne13QluEX7QKBgQDHya6PxzlpzdMt9TtTe2sLfjS9zW8Mf3W3e+lqcOcxsTJxBX5i\nn7St6AUVssXZrpWpaHq8OkBVhrjTSrzYG1GThqE741kjgrO0UWvexk2iX9R90pdT\nowgMMMEgH5kp2ZuokJsD651lrkrHkef134ftpvyxcaShtvBOrI3tTyICrQKBgQCJ\nVMeLPWB0PyK4XPNdM9defR4URcvQ2EOGJ9D5cHLIU6JBZXx5GGcVB9wxEI4lNqDn\nLNT/cnl1hq0uXzCpWCsySJIbP0JHU+FokzN7hGffkAG+AktaiMCEte7d4GT2AMzi\nG/HWlJZDv/G4osbh2yixcJ27B4VKOoT3t3JI+h00hQKBgGZZ+FcIOreNiIlsTN4M\nM8QmO5VFrec5+JKb0rhbKzVknKL4ADjT5hQe60+H7RNKHGrrmbv9+A9GlKhwXKzl\nqkD4dhsUnvSHSa4jyXocRNFsNzSp3SIimKZFOsO8fP1Mnu/hmNncOL1pbfhLD0j0\nWJX0mcPfrLh1QT2OMaPq8wj5\n-----END PRIVATE KEY-----\n",
+    "client_email": "portfolio-tracker-sc-v1-api@portfolio-tracker-sc-v1.iam.gserviceaccount.com",
+    "client_id": "118294151063532549105",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/portfolio-tracker-sc-v1-api%40portfolio-tracker-sc-v1.iam.gserviceaccount.com",
+    
+    "binance_api_key" : "F9fFTDSUIeWRjx9aQReWvHuoAfv2R6slKSVzQCNuoiZXvSbzzy7ElFqsxMpQMp0r",
+    "binance_api_secret" : "GdzCarT0F1UhArMj69YTO88AzQDbXhUSRrXfM0ediRosUGT12snNIe4tUXtUpwjK",
+
+    "kite_api_key" : "qkzaknavbf1e8pqn",
+    "kite_access_token" : "Uv97EqYaIX3oid4L6wukEiY2hi1WgxOE",
+
+    "CMC_PRO_API_KEY" : "6b9f34a7-7dc8-49f1-82ea-e9801bedf68b",
+    "cmc_url" : "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest", 
+    "cm" : "27ae939b-d02a-4d8b-bf67-022fe6297649"
+}
