@@ -2,6 +2,6 @@
 import logging
 from kiteconnect import KiteConnect
 
-kite = KiteConnect(api_key="qkzaknavbf1e8pqn")
-data = kite.generate_session("j6MElDAz6JN8e2DDdi7NImqi0As3a8CZ", api_secret="1kauc1u9k5sq81r2vz2psou21iyvd13x")
+kite = KiteConnect(api_key="your_api_key_here")
+data = kite.generate_session("auth_key_here", api_secret="your_api_secret_here")
 print(data["access_token"])
