@@ -1,6 +1,7 @@
 
 # 📊 Portfolio Tracker v1.0
 ![Screenshot 2024-09-21 120746](https://github.com/user-attachments/assets/4e3a255b-60ad-4801-9739-ece1d3ba67c1)
+visit: https://docs.google.com/spreadsheets/d/17NIDF4VCKtWN2gvJMExut1_3lX0IAfU-HenGHTI9eXg/edit?usp=sharing
 
 Welcome to the **Portfolio Tracker v1.0**, a comprehensive tool designed to help investors seamlessly track and manage their cryptocurrency and stock portfolios in real-time. The project integrates with APIs such as CoinMarketCap, Google Finance, and platforms like Binance and Zerodha to provide detailed analytics and real-time insights into your investments.
 
